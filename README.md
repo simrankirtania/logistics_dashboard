@@ -206,13 +206,16 @@ Some key insights generated from the dashboard include:
 ```
 SwiftRoute-Logistics-Dashboard/
 │
+├── Datasets/
+│   ├── Drivers.csv
+│   ├── Hubs.csv
+│   ├── Orders.csv
+│   └── Vehicles.csv
+│
+├── Business Insights Report.pdf
 ├── Business Problem Statements.pdf
-├── LOGISTICS DASHBOARD.pbix
 ├── LOGISTIC DASHBOARD Screenshot.pdf
-├── Orders.csv
-├── Drivers.csv
-├── Hubs.csv
-├── Vehicles.csv
+├── LOGISTICS DASHBOARD.pbix
 ├── README.md
 └── LICENSE
 ```
