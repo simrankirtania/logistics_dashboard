@@ -1123,3 +1123,8 @@ The strongest evidence points toward three priorities:
 At the same time, the analysis shows where the current data does **not** support strong conclusions, such as vehicle-type effects on delivery time, hub-level on-time differences, driver tenure as a delay lever, and individual-order delay prediction.
 
 That distinction between **what the data shows, what the data proves, and what the data cannot yet answer** is at the core of this project.
+
+---
+
+**Author:** Simran Kirtania — MSc Economics, aspiring Analyst
+📧 simrankirtania02@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/simrankirtania/) · 🌐 [Portfolio](https://simrankirtaniaportfolio.netlify.app)
